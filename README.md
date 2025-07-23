@@ -1,3 +1,3 @@
 # MineMovie
 
-Recreating "A Movie Minecraft" building mechanic in Virtual Reality
+Recreating "A Movie Minecraft" throwing blocks building mechanic in Virtual Reality
