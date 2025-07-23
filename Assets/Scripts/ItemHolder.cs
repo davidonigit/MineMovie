@@ -9,7 +9,7 @@ public class ItemHolder : MonoBehaviour
     private BlockItem[] blockItems;
 
     private BlockItem currentBlock;
-    private float yOffset = .3f;
+    private float yOffset = .25f;
 
     private void Start() {
         SpawnItem(blockItems[0]);
